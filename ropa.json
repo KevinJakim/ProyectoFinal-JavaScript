@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "nombre": "Hoodie ColorLand Turquesa",
+      "tipo": "buzo",
+      "cantidad": 1,
+      "precio": 5000,
+      "talle": "M",
+      "img": "https://res.cloudinary.com/dunlvqhjt/image/upload/v1677969716/Streetwear/Publicaciones/Hoodies%20y%20Buzos/hoodie-back_ppgojc.webp"
+    },
+    {
+      "id": 2,
+      "nombre": "Hoodie ColorLand Green",
+      "tipo": "buzo",
+      "cantidad": 1,
+      "precio": 5000,
+      "talle": "M",
+      "img": "https://res.cloudinary.com/dunlvqhjt/image/upload/v1677969716/Streetwear/Publicaciones/Hoodies%20y%20Buzos/hoodieGreen-back_ctnc8p.webp"
+    },
+    {
+      "id": 3,
+      "nombre": "Hoodie ColorLand Red",
+      "tipo": "buzo",
+      "cantidad": 1,
+      "precio": 3000,
+      "talle": "M",
+      "img": "https://res.cloudinary.com/dunlvqhjt/image/upload/v1677796170/Streetwear/Publicaciones/Hoodies%20y%20Buzos/hoodieRed-front_w930he.webp"
+    },
+    {
+      "id": 4,
+      "nombre": "Hoodie GoodLook White",
+      "tipo": "buzo",
+      "cantidad": 1,
+      "precio": 4500,
+      "talle": "M",
+      "img": "https://res.cloudinary.com/dunlvqhjt/image/upload/v1677796165/Streetwear/Publicaciones/Hoodies%20y%20Buzos/hoodieWhite-back_sgdldc.webp"
+    },
+    {
+      "id": 5,
+      "nombre": "Remera ColorLand Black",
+      "tipo": "remera",
+      "cantidad": 1,
+      "precio": 1200,
+      "talle": "L",
+      "img": "https://res.cloudinary.com/dunlvqhjt/image/upload/v1677809412/Streetwear/Publicaciones/Remeras/RemeraNegra-Back_frd2ww.webp"
+    },
+    {
+      "id": 6,
+      "nombre": "Remera Future Orange",
+      "tipo": "remera",
+      "cantidad": 1,
+      "precio": 1200,
+      "talle": "L",
+      "img": "https://res.cloudinary.com/dunlvqhjt/image/upload/v1677804391/Streetwear/Publicaciones/Remeras/remeraOranje-front_eltxvv.webp"
+    },
+    {
+      "id": 7,
+      "nombre": "Remera The End White",
+      "tipo": "remera",
+      "cantidad": 1,
+      "precio": 1200,
+      "talle": "L",
+      "img": "https://res.cloudinary.com/dunlvqhjt/image/upload/v1677802861/Streetwear/Publicaciones/Remeras/RemeraTheEnd-back_pt3dn5.webp"
+    },
+    {
+      "id": 8,
+      "nombre": "Remera Contact White",
+      "tipo": "buzo",
+      "cantidad": 1,
+      "precio": 1200,
+      "talle": "L",
+      "img": "https://res.cloudinary.com/dunlvqhjt/image/upload/v1677809412/Streetwear/Publicaciones/Remeras/Remera-Contact_bcinwh.webp"
+    }
+  ]
